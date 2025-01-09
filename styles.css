@@ -21,7 +21,7 @@ a { text-decoration:none; }
 
 img {
 	display: block;
-	max-width:100%; 
+	max-width:60%; 
 	height: auto;
 }
 
@@ -167,7 +167,7 @@ Removes the border on the first link...
 }
 
 #work img, .additional-projects img {
-	width: 100%;
+	width: 80%;
 	margin-bottom: 10px;
 }
 
